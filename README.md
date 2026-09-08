@@ -1,6 +1,6 @@
 # Hi, I'm Adham 👋
 
-Backend & automation developer specializing in **large-scale web scraping, data pipelines, and workflow automation**.
+Fullstack & automation developer specializing in **large-scale web scraping, data pipelines, and workflow automation**.
 
 I build systems that turn messy, unstructured web data into clean, structured output — reliably, at scale, and without breaking when the target site changes its layout next week.
 
