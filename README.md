@@ -1,6 +1,6 @@
 # Hi, I'm Adham 👋
 
-Fullstack & automation developer specializing in **large-scale web scraping, data pipelines, and workflow automation**.
+Full-Stack & Automation Developer specializing in scalable web apps, real-time architectures, and high-volume data pipelines.
 
 I build systems that turn messy, unstructured web data into clean, structured output — reliably, at scale, and without breaking when the target site changes its layout next week.
 
@@ -21,6 +21,7 @@ A large-scale scraping and automation system covering 50+ distinct trade show ex
 ## 🧰 Tech I work with
 
 `Node.js` `Express` `Python` `Socket.io` `openpyxl` `Puppeteer` `REST APIs` `Excel/data automation`
+React, Next.js, TypeScript, Tailwind CSS, Vue
 
 ## 📫 Let's work together
 
