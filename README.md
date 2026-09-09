@@ -28,7 +28,6 @@ React, Next.js, TypeScript, Tailwind CSS, Vue
 I'm available for freelance projects involving scraping, backend automation, and data tooling.
 
 - Upwork: [https://www.upwork.com/freelancers/~018589a1599c84f11c]
-- Email: [Anishma0000@gmail.com]
 
 ---
 *Currently open to new freelance engagements.*
